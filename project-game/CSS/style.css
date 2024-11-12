@@ -1,0 +1,18 @@
+
+/* *{
+cursor: none;
+} */
+body{
+   background-image:  url("../IMAGES/Browser\ Games\ -\ Nealfun\ Games\ -\ 99\ Accuracy\ Background.png");
+   background-size: 15%;
+}
+.rocket-container {
+   width:5%;
+   bottom: 0;
+   left: 0;
+   position: absolute;
+}
+.rocket-container img{
+   width:100% ;
+   
+}
